@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\LINQinManhattan",
-    "\\LINQinManhattan\\bin",
-    "\\LINQinManhattan\\obj"
+    "\\LINQinManhattan"
   ],
-  "SelectedNode": "\\LINQinManhattan\\obj\\project.assets.json",
+  "SelectedNode": "\\LINQinManhattan\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
